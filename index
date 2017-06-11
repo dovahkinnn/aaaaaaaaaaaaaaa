@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Novalgin</title>
+<meta name="Description" content="Yönetim Bilişim Sistemleri"/>
+<meta name="Keywords" content="izmir,dokuz eylül,universite, deu"/>
+<meta name="Copyright" content="2009-2012 Copyright | "/>
+<meta charset="UTF-8"/>
+
+<link href="style.css" rel="stylesheet"/>
+</head>
+<body>
+<div id="container">
+<div id="solUstBanner"></div>
+<img id="logo" src="images/logo.jpg"
+</div>
+<div>
+<label id="Novalgin">Novalgin</label>
+<input id="aranacak" type="text" value="Aranacak Kelime"/>
+<img id="search" src="images/search.png"/>
+<label id="giris">Üye Girişi</label>
+	<img id="girisFoto" src="images/giris.png"/>
+<label id="uye">Uye Ol</label>
+	
+
+<div id="menu">
+<img id="menu1" src="images/menu.png"/>
+<img id="face" src="images/face.png"/>
+<img id="twitter" src="images/twitter.png"/>
+<img id="youtube" src="images/youtube.png"/>
+
+<ul>
+<li>inceleme</li>
+<li>haber</li>
+<li>oyun galerileri</li>
+<li>e-spor</li>
+<li>teknoloji</li>
+<li>sinema/tv</li>
+<li>forum</li>
+
+</div>
+</div>
+
+<div id="icerik">
+
+
+	<img id="thorfoto" src="images/thor.png"/>
+	<label id="thor">Thor ragnarok'un ilk fragmanı yayınlandı</label>
+	<label id="sinema">sinema/tv</label>
+	
+	<img id="residentfoto" src="images/resident.png"/>
+	<label id="resident">Bu hafta çıkacak oyunlar (10-17 Nisan)</label>
+	<label id="oyun">Oyun Haber</label>
+	
+	
+	<img id="mmofoto" src="images/mmo.png"/>
+	<label id="mmo">MMO'ların kurtulması için ne gerek?</label>
+	<label id="oyun">Oyun Haber</label>
+	
+
+</div>
+</div>
+
+<div id="sagmenu">
+
+	<label id="baslık">Haftanın En Yazıları</label>
+	
+	<label id="baslık2">Haftanın En Popüler Oyunları</label>
+	
+	<img id="forfoto" src="images/for.png"/>
+    <label id="for">For Honor</label>
+	
+	<img id="assfoto" src="images/ass.png"/>
+	<label id="ass">Assasins Creed</label>
+
+
+	
+	
+	<img id="xboxfoto" src="images/xbox.png"/>
+	<label id="xbox">Xbox Scorpio'yu bekleyenlere kötü haber</label>
+	
+	
+	
+	<img id="titanfoto" src="images/titan.png"/>
+	<label id="titan">Nvidia'dan tarihinin en güçlü ekran kartı geliyor:Titan XP</label>
+	
+	<img id="massfoto" src="images/mass.png"/>
+	<label id="mass">Mass Effect Andromeda korsana yenik düştü</label>
+
+</div>
+</div>
+
+<div id="ortamenu">
+
+<img id="perifoto" src="images/peri.png"/>
+	<label id="peri">Periscope</label>
+	<label id="peri1">Periscope'un Türkiyede ki ismi değişti</label>
+	<label id="peri2">Hemde ilginç gerekçe ile</label>
+
+	
+ 
+<img id="batmanfoto" src="images/batman.png"/>
+	<label id="batman">The Batman</label>
+	<label id="batman1">2019'da 4 tane Batman filmi var</label>
+	<label id="batman2">Batman ve Beyaz Melekler yeni konser turnesi</label>
+
+<img id="ryzenfoto" src="images/ryzen.png"/>
+	<label id="ryzen">AMD</label>
+	<label id="ryzen1">AMD Ryzen gümbür gümbür geliyor</label>
+	<label id="ryzen2">Ortaya çıkan sonuçlar heyecan verici...</label>
+
+<div id="menu3">
+<ul>
+<li>En Son Eklenenler</li>
+<li>Haberler</li>
+<li>Yazılar</li>
+<li>Teknoloji</li>
+<li>Konu Dışı</li>
+
+</div>
+<div id="batmansinema">
+	<label id="sinema1">sinema/tv</label>
+	
+
+
+<div id="periteknoloji">
+	<label id="teknoloji1">Teknoloji</label>
+
+
+<div id="ryzenteknoloji">
+	<label id="ryzen11">Teknoloji</label> 
+<div id="altlık1">
+	
+</div>
+
+<div id="altlik">
+
+
+<label id="hakkimizda">Künye</label>
+<label id="gizlilik">Gizlilik Politikasi</label>
+<label id="sss">S.S.S</label>
+
+
+	
+</div>
+
+
+	
+
